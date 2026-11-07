@@ -6,3 +6,7 @@ Call Center Performance Dashboard in Power BI
 ### Page 2
 
 ![Call Center Dashboard - Page 2](Screenshot%202026-10-18%20062647.png)
+
+### Insights and Recommendations
+
+![Insights and Recommendations](Screenshot%202026-10-18%20062716.png)
